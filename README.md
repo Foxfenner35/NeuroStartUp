@@ -1,4 +1,4 @@
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Downloads/logo.png?version%3D1739145570878)
+![img](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Downloads/logo.png?version%3D1739145570878)
 
 NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
 
@@ -17,7 +17,9 @@ NeuroStartUp — динамически развивающийся старта�
 
 Ниже пример кода из нашего приложения:
 
-css~.selector {
+```css
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}~
+}
+```
