@@ -1,4 +1,4 @@
-![img](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Downloads/logo.png?version%3D1739145570878)
+![](./logo.png)
 
 NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
 
